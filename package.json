@@ -1,8 +1,8 @@
 {
-  "name": "MMM-NetworkScanner",
+  "name": "mmm-networkscanner",
   "version": "0.0.1",
   "description": "A module for MagicMirror which determines the status of devices on the network based on their MAC address",
-  "main": "MMM-NetworkScanner.js",
+  "main": "mmm-networkscanner.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
