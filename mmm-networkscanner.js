@@ -6,7 +6,7 @@
  * MIT Licensed.
  */
 
- Module.register("MMM-NetworkScanner",{
+ Module.register("mmm-networkscanner",{
 
      // Default module config.
     defaults: {
